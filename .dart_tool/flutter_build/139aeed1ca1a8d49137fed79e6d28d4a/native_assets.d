@@ -1,0 +1,1 @@
+ /Users/mongkolchaithongchai/my-project/flutter-src/mi_card_flutter/.dart_tool/flutter_build/139aeed1ca1a8d49137fed79e6d28d4a/native_assets.yaml: 
