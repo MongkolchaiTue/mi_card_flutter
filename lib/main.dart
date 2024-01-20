@@ -73,7 +73,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.teal,
                     ),
                     Text(
-                        'angela@email.com',
+                        'angela at email.com',
                       style: TextStyle(
                         fontSize: 20.0,
                         color: Colors.teal.shade900,
